@@ -66,8 +66,8 @@ We are the PBM (Medication Benefit Program) and health manager of the largest ph
 ## 📞 Contact
 
 - **Email**: cleisson@outlook.com.br
-- **LinkedIn**: [JohnDoe](https://www.linkedin.com/in/cleisson-andrade-514096207/)
-- **GitHub**: [johndoe](https://github.com/cl3i550n)
+- **LinkedIn**: [Cleisson](https://www.linkedin.com/in/cleisson-andrade-514096207/)
+- **GitHub**: [Cleisson](https://github.com/cl3i550n)
 
 ---
 
