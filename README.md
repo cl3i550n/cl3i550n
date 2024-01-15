@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Cleisson, a passionate React Native Developer with 2 years of experience building beautiful and functional mobile applications for both Android and iOS platforms.
+Hello! I'm Cleisson, a passionate React Native Developer with 3 years of experience building beautiful and functional mobile applications for both Android and iOS platforms.
 
 ---
 
